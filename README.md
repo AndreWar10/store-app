@@ -1,16 +1,24 @@
-# store_app
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1dc7b7&height=120&section=header"/>
 
-A new Flutter project.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1dc7b7&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+Green+Bank+App+💸)](https://git.io/typing-svg)
 
-## Getting Started
+<br/>
+<div> 
+  <strong>Store App </strong>
+</div>
 
-This project is a starting point for a Flutter application.
+ <table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/AndreWar10/green-bank-compass-app/blob/master/assets/images/home.jpeg" alt="Details Page - version mobile" height="500px">
+    </td>
+    <td>
+      <img src="https://github.com/AndreWar10/green-bank-compass-app/blob/master/assets/images/extrato.jpeg" alt="Details Page - version mobile" height="500px">
+    </td>
+    <td>
+      <img src="https://github.com/AndreWar10/green-bank-compass-app/blob/master/assets/images/comprovante.jpeg" alt="Details Page - version mobile" height="500px">
+    </td>
+    
+  </table>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1dc7b7&height=120&section=footer"/>
